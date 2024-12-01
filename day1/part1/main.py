@@ -19,4 +19,4 @@ def total_distance_from_file(filename):
     return distance
 
 result = total_distance_from_file(filename)
-print("Distance totale :", result)
+print(result)
